@@ -1,6 +1,6 @@
 # javascript-to-elixir
 
-cheatsheet to help Javascript developers picking up Elixir by providing a `js => ex` map
+cheatsheet to help Javascript developers picking up Elixir by providing a map of equivalent
 
 > packages listed here are not necessary the best in its kind but typical ones, suggestions are welcome
 
@@ -34,3 +34,5 @@ cheatsheet to help Javascript developers picking up Elixir by providing a `js =>
 
 
 ## syntax
+
+[syntax map](https://github.com/chattes/javascript_to_elixir/wiki)
